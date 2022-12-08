@@ -12,7 +12,7 @@ const About = () => {
     <>
       <Header />
       <Contents>
-        <Title title={["movie", "reference api"]} />
+        <Title title={["about", "reference api"]} />
         <AboutCont />
         <Contact />
       </Contents>

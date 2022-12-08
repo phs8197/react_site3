@@ -11,7 +11,7 @@ const App = () => {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Main />} />
+        <Route path="/react_site3" element={<Main />} />
         <Route path="/about" element={<About />} />
         <Route path="/reference" element={<Reference />} />
         <Route path="/youtube" element={<Youtube />} />

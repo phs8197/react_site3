@@ -1,10 +1,10 @@
 import React from "react";
 
 const MainInfo = [
-  { text: "we provide" },
-  { text: "visual coding" },
-  { text: "solutions" },
-  { text: "for you API" },
+  { text: "This is my" },
+  { text: "first react site" },
+  { text: "using API" },
+  { text: "thank you :)" },
 ];
 
 const MainText = ({ text }) => {
