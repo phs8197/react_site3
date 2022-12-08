@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_site3/static/css/main.619f49aa.css",
-    "main.js": "/react_site3/static/js/main.441f481d.js",
+    "main.js": "/react_site3/static/js/main.2f75acd2.js",
     "static/media/GowunBatangRegular.eot": "/react_site3/static/media/GowunBatangRegular.af02543ebfb93fe96dee.eot",
     "static/media/GowunBatangRegular.ttf": "/react_site3/static/media/GowunBatangRegular.6b610213de9843984042.ttf",
     "static/media/GowunBatangBold.eot": "/react_site3/static/media/GowunBatangBold.bd54844e2f62d7bdb9da.eot",
@@ -44,10 +44,10 @@
     "static/media/SaolDisplay-Regular.woff2": "/react_site3/static/media/SaolDisplay-Regular.d2f1f152c22382033869.woff2",
     "index.html": "/react_site3/index.html",
     "main.619f49aa.css.map": "/react_site3/static/css/main.619f49aa.css.map",
-    "main.441f481d.js.map": "/react_site3/static/js/main.441f481d.js.map"
+    "main.2f75acd2.js.map": "/react_site3/static/js/main.2f75acd2.js.map"
   },
   "entrypoints": [
     "static/css/main.619f49aa.css",
-    "static/js/main.441f481d.js"
+    "static/js/main.2f75acd2.js"
   ]
 }
