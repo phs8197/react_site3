@@ -10,25 +10,6 @@
 
 
 
-## 각 종 API를 활용하여 만든 리액트 사이트입니다.
-
-<p align="justify">
-movie API, YouTube API, unsplash API를 활용하여 데이터를 서버에서 받아와서 화면에 구현하였습니다.<br>
-useState, useEffect와 같은 Hooks를 사용하였고, Route 컴포넌트를 사용하여 SPA 방식을 이해하고 구현하였습니다.<br>
-map 배열 메소드를 이용하여 컴포넌트를 반복화하여 생성하고, async, awite 함수를 이용하여 비동기 방식으로 데이터를 가져왔습니다.
-</p>
-
-
-<br>
-
-## 기술 스택
-
-|    html    |     css    |     react.   |
-| :--------: | :--------: | :--------:   |
-|  ![html]   |   ![css]   |   ![react].  |
-
-<br>
-
 ## 구현 기능
 
 ### 기능 1
@@ -41,10 +22,22 @@ map 배열 메소드를 이용하여 컴포넌트를 반복화하여 생성<br>
 async, awite 함수를 이용하여 비동기 방식으로 데이터를 <br> 
 <br>
 
+<br>
+
+## 기술 스택
+
+|    html    |     css    |     react.   |
+| :--------: | :--------: | :--------:   |
+|  ![html]   |   ![css]   |   ![react].  |
+
+<br>
+
 ## 배운 점 & 아쉬운 점
 
 <p align="justify">
-
+movie API, YouTube API, unsplash API를 활용하여 데이터를 서버에서 받아와서 화면에 구현하였습니다.<br>
+useState, useEffect와 같은 Hooks를 사용하였고, Route 컴포넌트를 사용하여 SPA 방식을 이해하고 구현하였습니다.<br>
+map 배열 메소드를 이용하여 컴포넌트를 반복화하여 생성하고, async, awite 함수를 이용하여 비동기 방식으로 데이터를 가져왔습니다.
 </p>
 
 <br>
