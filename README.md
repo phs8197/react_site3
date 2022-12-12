@@ -12,14 +12,13 @@
 
 ## 구현 기능
 
-### 기능 1
 <li>movie API, YouTube API, unsplash API 활용</li> 
-### 기능 2
-useState, useEffect와 같은 Hooks 사용<br> 
-### 기능 3
-map 배열 메소드를 이용하여 컴포넌트를 반복화하여 생성<br> 
-### 기능 4
-async, awite 함수를 이용하여 비동기 방식으로 데이터를 받기<br> 
+
+<li>useState, useEffect와 같은 Hooks 사용</li> 
+
+<li>map 배열 메소드를 이용하여 컴포넌트를 반복화하여 생성</li> 
+
+<li>async, awite 함수를 이용하여 비동기 방식으로 데이터를 받기</li> 
 <br>
 
 <br>
