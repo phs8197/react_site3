@@ -1,5 +1,5 @@
 # 리액트 사이트 (React site)
-
+## 각 종 API를 활용하여 만든 리액트 사이트입니다.
 <p align="space-between" style="display: flex;">
   <br>
   <img src="./public/301.png" width="32.5%">
