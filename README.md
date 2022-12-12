@@ -8,13 +8,14 @@
   <br>
 </p>
 
-목차
 
-## 현지 가이드를 소개해주어 여행에 도움을 주는 앱입니다.
+
+## 각 종 API를 활용하여 만든 리액트 사이트입니다.
 
 <p align="justify">
-html & css 만을 이용하였고, animation, media query를 이용하여 반응형에 맞게 작업하였습니다.<br>
-피그마를 이용하여 디자인하였고, 챌린지 우수 프로젝트로 뽑히게 되어 뿌듯함을 느꼈던 프로젝트입니다.
+movie API, YouTube API, unsplash API를 활용하여 데이터를 서버에서 받아와서 화면에 구현하였습니다.<br>
+useState, useEffect와 같은 Hooks를 사용하였고, Route 컴포넌트를 사용하여 SPA 방식을 이해하고 구현하였습니다.<br>
+map 배열 메소드를 이용하여 컴포넌트를 반복화하여 생성하고, async, awite 함수를 이용하여 비동기 방식으로 데이터를 가져왔습니다.
 </p>
 
 
@@ -31,13 +32,13 @@ html & css 만을 이용하였고, animation, media query를 이용하여 반응
 ## 구현 기능
 
 ### 기능 1
-media query<br> 
+movie API, YouTube API, unsplash API 활용<br> 
 ### 기능 2
-
+useState, useEffect와 같은 Hooks를 사용<br> 
 ### 기능 3
-
+map 배열 메소드를 이용하여 컴포넌트를 반복화하여 생성<br> 
 ### 기능 4
-
+async, awite 함수를 이용하여 비동기 방식으로 데이터를 <br> 
 <br>
 
 ## 배운 점 & 아쉬운 점
@@ -50,12 +51,12 @@ media query<br>
 
 
 <!-- Stack Icon Refernces -->
-[html]: /image/stack/html.svg
-[css]: /image/stack/css.svg
-[figma]: /image/stack/figma.svg
-[ts]: /image/stack/typescript.svg
-[react]: /image/stack/react.svg
-[node]: /image/stack/node.svg
+[html]: /public/stack/html.svg
+[css]: /public/stack/css.svg
+[figma]: /public/stack/figma.svg
+[ts]: /public/stack/typescript.svg
+[react]: /public/stack/react.svg
+[node]: /public/stack/node.svg
 
 
 
