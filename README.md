@@ -13,7 +13,7 @@
 ## 구현 기능
 
 ### 기능 1
-movie API, YouTube API, unsplash API 활용<br> 
+<li>movie API, YouTube API, unsplash API 활용</li> 
 ### 기능 2
 useState, useEffect와 같은 Hooks 사용<br> 
 ### 기능 3
