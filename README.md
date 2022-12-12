@@ -15,11 +15,11 @@
 ### 기능 1
 movie API, YouTube API, unsplash API 활용<br> 
 ### 기능 2
-useState, useEffect와 같은 Hooks를 사용<br> 
+useState, useEffect와 같은 Hooks 사용<br> 
 ### 기능 3
 map 배열 메소드를 이용하여 컴포넌트를 반복화하여 생성<br> 
 ### 기능 4
-async, awite 함수를 이용하여 비동기 방식으로 데이터를 <br> 
+async, awite 함수를 이용하여 비동기 방식으로 데이터를 받기<br> 
 <br>
 
 <br>
@@ -32,12 +32,13 @@ async, awite 함수를 이용하여 비동기 방식으로 데이터를 <br>
 
 <br>
 
-## 배운 점 & 아쉬운 점
+## 배운 점
 
 <p align="justify">
-movie API, YouTube API, unsplash API를 활용하여 데이터를 서버에서 받아와서 화면에 구현하였습니다.<br>
-useState, useEffect와 같은 Hooks를 사용하였고, Route 컴포넌트를 사용하여 SPA 방식을 이해하고 구현하였습니다.<br>
-map 배열 메소드를 이용하여 컴포넌트를 반복화하여 생성하고, async, awite 함수를 이용하여 비동기 방식으로 데이터를 가져왔습니다.
+각 종 API를 활용하여 GET요청을 통해 JSON 형식으로 데이터를 서버에서 받아오게 되는 통신구조를 알게 되었습니다.<br>
+useState 함수를 이용하여 상태를 저장하고 상태가 변경될때마다 렌더링 해주는 방식과 가상의 돔 구조를 이해하였습니다.<br>
+map 배열 메소드를 이용하여 컴포넌트를 반복화하여 생성하고 <br>
+async, awite 함수를 이용하여 비동기 방식으로 데이터 처리하는 방법을 배우게 되었습니다.
 </p>
 
 <br>
