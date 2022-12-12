@@ -2,9 +2,9 @@
 
 <p align="space-between" style="display: flex;">
   <br>
-  <img src="./image/301.png" width="32.5%">
-  <img src="./image/302.png" width="32.5%">
-  <img src="./image/303.png" width="32.5%">
+  <img src="./public/301.png" width="32.5%">
+  <img src="./public/302.png" width="32.5%">
+  <img src="./public/303.png" width="32.5%">
   <br>
 </p>
 
